@@ -12,13 +12,13 @@
 #### 2.安装PyQt5
 
 采用命令安装，Win+R，输入CMD，打开命令框，输入以下命令。后面是豆瓣的镜像地址，是为了加快下载速度。
-
+```python
 pip install PyQt5 -i https://pypi.douban.com/simple
-
+```
 #### 3.安装Qt的工具包
-
+```python
 pip install PyQt5-tools -i https://pypi.douban.com/simple
-
+```
 #### 4.测试PyQt5环境是否安装成功
 
 复制以下代码到后缀为.py的文件中
