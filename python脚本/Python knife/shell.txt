@@ -1,0 +1,3 @@
+                                  shell 地 址                                      密码
+http://127.0.0.1/test/test.php          cmd
+http://10.60.18.18/test/test.php          cmd

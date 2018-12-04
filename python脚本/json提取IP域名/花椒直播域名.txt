@@ -1,0 +1,20 @@
+{
+"count": 84,
+"response_ip": "",
+"time_first": 1440059261,
+"_source": "",
+"rrtype": "A",
+"rrname": "chat.huajiao.com",
+"rdata": "106.38.193.119;",
+"time_last": 1440063292
+},
+{
+"count": 16514,
+"response_ip": "",
+"time_first": 1429884658,
+"_source": "",
+"rrtype": "CNAME",
+"rrname": "forecast.huajiao.com",
+"rdata": "www.huajiao.com;",
+"time_last": 1440064514
+},
