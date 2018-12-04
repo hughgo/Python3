@@ -3,7 +3,7 @@
 ​    设计之初，本想只写个命令行的就可以了，但又想与众不同，想用python写代码，又不想用c#写前端（c#太卡了），万分无奈之下，找到一个替代品，Pyqt，所以我这个简易的菜刀就由此开始了。本程序实在python3下开发的。GUI界面用的Pyqt模块
 既然想用pyqt做界面，第一步就是先装好pyqt
 
-#### python knife介绍视频
+#### Python knife介绍视频
 https://pan.baidu.com/s/1skQdp5fIIS4BlqrWp2CbFw
 
 ## 0x01 PYQT的安装
